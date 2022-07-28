@@ -9,8 +9,8 @@
     <License>MIT</License>
     <Authors>adorno.dev</Authors>
     <PackageDescription>Pacote de teste</PackageDescription>
-    <RepositoryUrl>https://github.com/adorno.dev/gravatar-test</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/adorno.dev/gravatar-test</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/adorno-dev/gravatar-test</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/adorno-dev/gravatar-test</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Gravatar-Test</PackageTags>
     <Title>Gravatar Test</Title>
